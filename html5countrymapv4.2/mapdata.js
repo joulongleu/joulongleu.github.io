@@ -7,7 +7,7 @@ var simplemaps_countrymap_mapdata={
     border_color: "#ffffff",
     
     //State defaults
-    state_description: "",
+    state_description: "State description",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "",
@@ -16,7 +16,7 @@ var simplemaps_countrymap_mapdata={
     all_states_zoomable: "yes",
     
     //Location defaults
-    location_description: "溫暖的家",
+    location_description: "Location description",
     location_url: "",
     location_color: "#FF0067",
     location_opacity: 0.8,
@@ -122,9 +122,9 @@ var simplemaps_countrymap_mapdata={
     },
     TWN1170: {
       hover_color: "red",
-      name: "嘉義",
       description: "嘉義縣六腳鄉六南村238號",
-      color: "#008000"
+      color: "#008000",
+      name: "嘉義"
     },
     TWN1171: {
       name: "Chiayi City",
@@ -169,14 +169,16 @@ var simplemaps_countrymap_mapdata={
     "0": {
       lat: "23.503490",
       lng: "120.25243",
-      name: "老家"
-      url: "http://joulong.hopto.org:8333/2022/08/02/%e6%99%ba%e6%85%a7%e5%b1%8b%e5%b1%95%e7%a4%ba/"
+      name: "老家",
+      description: "媽媽住家",
+      url: "http://joulong.hopto.org:8333"
     },
     "1": {
       lat: "23.70564305830822",
       lng: "120.53147274251366",
       name: "我家",
-      url: "http://joulong.hopto.org:8333/2022/08/02/%e6%99%ba%e6%85%a7%e5%b1%8b%e5%b1%95%e7%a4%ba/"
+      url: "http://joulong.hopto.org:8333/2022/08/02/%e6%99%ba%e6%85%a7%e5%b1%8b%e5%b1%95%e7%a4%ba/",
+      description: "溫暖的家"
     }
   },
   labels: {},
