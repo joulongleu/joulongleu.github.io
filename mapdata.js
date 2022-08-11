@@ -93,7 +93,7 @@ var simplemaps_countrymap_mapdata={
       description: " "
     },
     TWN1163: {
-      name: "宜蘭屬",
+      name: "宜蘭",
       description: " "
     },
     TWN1164: {
@@ -101,7 +101,7 @@ var simplemaps_countrymap_mapdata={
       description: " "
     },
     TWN1165: {
-      name: "苗栗屬",
+      name: "苗栗",
       description: " "
     },
     TWN1166: {
@@ -122,20 +122,20 @@ var simplemaps_countrymap_mapdata={
     },
     TWN1170: {
       hover_color: "red",
-      description: "嘉義縣六腳鄉六南村xxx號",
-      color: "#008000",
-      name: "嘉義"
+      description: "我的家鄉",
+      name: "嘉義",
+      url: "http://joulong.hopto.org:8333/"
     },
     TWN1171: {
       name: "嘉義市",
       description: " "
     },
     TWN1172: {
-      name: "花蓮屬",
+      name: "花蓮",
       description: " "
     },
     TWN1173: {
-      name: "南頭縣",
+      name: "南投縣",
       description: " "
     },
     TWN1174: {
@@ -145,11 +145,11 @@ var simplemaps_countrymap_mapdata={
     TWN1176: {
       hover_color: "red",
       name: "雲林",
-      description: "雲林縣斗六市保長路50-118號",
-      color: "#8b1f1f"
+      description: "我的家",
+      url: "http://joulong.hopto.org:8333/2022/08/02/%e6%99%ba%e6%85%a7%e5%b1%8b%e5%b1%95%e7%a4%ba/"
     },
     TWN1177: {
-      name: "台東地區",
+      name: "台東",
       description: " "
     },
     TWN3414: {
@@ -157,7 +157,7 @@ var simplemaps_countrymap_mapdata={
       description: " "
     },
     TWN3415: {
-      name: "金門屬",
+      name: "金門",
       description: " "
     },
     TWN5128: {
