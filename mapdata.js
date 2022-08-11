@@ -1,13 +1,13 @@
 var simplemaps_countrymap_mapdata={
   main_settings: {
    //General settings
-    width: "800", //'700' or 'responsive'
+    width: "400", //'700' or 'responsive'
     background_color: "#8b1f1f",
     background_transparent: "yes",
     border_color: "#ffffff",
     
     //State defaults
-    state_description: "State description",
+    state_description: "",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "",
@@ -16,7 +16,7 @@ var simplemaps_countrymap_mapdata={
     all_states_zoomable: "yes",
     
     //Location defaults
-    location_description: "Location description",
+    location_description: "溫暖的家",
     location_url: "",
     location_color: "#FF0067",
     location_opacity: 0.8,
@@ -122,8 +122,8 @@ var simplemaps_countrymap_mapdata={
     },
     TWN1170: {
       hover_color: "red",
-      name: "Chiayi",
-      description: "雲林縣斗六市保長路50-118號",
+      name: "嘉義",
+      description: "嘉義縣六腳鄉六南村238號",
       color: "#008000"
     },
     TWN1171: {
@@ -144,8 +144,8 @@ var simplemaps_countrymap_mapdata={
     },
     TWN1176: {
       hover_color: "red",
-      name: "Yunlin",
-      description: "嘉義縣六腳鄉六南村238號",
+      name: "雲林",
+      description: "雲林縣斗六市保長路50-118號",
       color: "#8b1f1f"
     },
     TWN1177: {
@@ -170,6 +170,7 @@ var simplemaps_countrymap_mapdata={
       lat: "23.503490",
       lng: "120.25243",
       name: "老家"
+      url: "http://joulong.hopto.org:8333/2022/08/02/%e6%99%ba%e6%85%a7%e5%b1%8b%e5%b1%95%e7%a4%ba/"
     },
     "1": {
       lat: "23.70564305830822",
