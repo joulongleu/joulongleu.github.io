@@ -73,73 +73,73 @@ var simplemaps_countrymap_mapdata={
   },
   state_specific: {
     TWN1156: {
-      name: "Kaohsiung City",
+      name: "高雄市",
       description: " "
     },
     TWN1158: {
-      name: "Pingtung",
+      name: "屏東縣",
       description: " "
     },
     TWN1160: {
-      name: "Tainan City",
+      name: "台南市",
       description: " "
     },
     TWN1161: {
-      name: "Hsinchu City",
+      name: "新竹市",
       description: " "
     },
     TWN1162: {
-      name: "Hsinchu",
+      name: "新竹縣",
       description: " "
     },
     TWN1163: {
-      name: "Yilan",
+      name: "宜蘭屬",
       description: " "
     },
     TWN1164: {
-      name: "Keelung City",
+      name: "基隆市",
       description: " "
     },
     TWN1165: {
-      name: "Miaoli",
+      name: "苗栗屬",
       description: " "
     },
     TWN1166: {
-      name: "Taipei City",
+      name: "臺北市",
       description: " "
     },
     TWN1167: {
-      name: "New Taipei City",
+      name: "新北市",
       description: " "
     },
     TWN1168: {
-      name: "Taoyuan",
+      name: "桃園縣",
       description: " "
     },
     TWN1169: {
-      name: "Changhua",
+      name: "彰化",
       description: " "
     },
     TWN1170: {
       hover_color: "red",
-      description: "嘉義縣六腳鄉六南村238號",
+      description: "嘉義縣六腳鄉六南村xxx號",
       color: "#008000",
       name: "嘉義"
     },
     TWN1171: {
-      name: "Chiayi City",
+      name: "嘉義市",
       description: " "
     },
     TWN1172: {
-      name: "Hualien",
+      name: "花蓮屬",
       description: " "
     },
     TWN1173: {
-      name: "Nantou",
+      name: "南頭縣",
       description: " "
     },
     TWN1174: {
-      name: "Taichung City",
+      name: "台中市",
       description: " "
     },
     TWN1176: {
@@ -149,19 +149,19 @@ var simplemaps_countrymap_mapdata={
       color: "#8b1f1f"
     },
     TWN1177: {
-      name: "Taitung",
+      name: "台東地區",
       description: " "
     },
     TWN3414: {
-      name: "Penghu",
+      name: "澎湖",
       description: " "
     },
     TWN3415: {
-      name: "Kinmen",
+      name: "金門屬",
       description: " "
     },
     TWN5128: {
-      name: "Lienchiang",
+      name: "連江",
       description: " "
     }
   },
